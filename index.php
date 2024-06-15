@@ -21,6 +21,8 @@
 <a href="lesson13/index.php">Урок 13. Управляющие конструкции. IF-ELSE-ELSEIF</a><br>
 <a href="lesson14/index.php">Урок 14. Тернарный оператор</a><br>
 <a href="lesson15/index.php">Урок 15. Цикл while</a><br>
+<a href="lesson16/index.php">Урок 16. Домашнее задание</a><br>
+<a href="lesson17/index.php">Урок 17. Цикл for</a><br>
 <hr>
 <br>
 <a href="pract.php">Практика</a><br>
