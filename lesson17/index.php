@@ -9,6 +9,19 @@
 </head>
 
 <body>
-<a href="https://www.php.net/manual/ru/control-structures.while.php">Документация. Цикл while</a><br><br>
+<a href="https://www.php.net/manual/ru/control-structures.for.php">Документация. Цикл for</a><br><br>
+
+<p>Увеличивается счетчик</p>
+<?php
+for($i = 1; $i <= 10; $i++){
+    echo "{$i}<br>";
+}
+?>
+<p>Уменьшается счетчик</p>
+<?php
+for ($i = 10; $i >= 1; $i--){
+    echo "{$i}<br>";
+}
+?>
 </body>
 </html>
