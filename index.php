@@ -24,6 +24,7 @@
 <a href="lesson16/index.php">Урок 16. Домашнее задание</a><br>
 <a href="lesson17/index.php">Урок 17. Цикл for</a><br>
 <a href="lesson18/index.php">Урок 18. Оператор switch</a><br>
+<a href="lesson19/index.php">Урок 19. Операторы continue и break</a><br>
 <hr>
 <br>
 <a href="pract.php">Практика</a><br>
