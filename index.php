@@ -30,6 +30,7 @@
 <a href="lesson22/index.php">Урок 22. Цикл foreach</a><br>
 <a href="lesson23/index.php">Урок 23. Домашнее задание</a><br>
 <a href="lesson24/index.php">Урок 24. Пользовательские функции. Часть 1</a><br>
+<a href="lesson25/index.php">Урок 25. Пользовательские функции. Часть 2</a><br>
 <hr>
 <br>
 <a href="pract.php">Практика</a><br>
