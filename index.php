@@ -34,6 +34,7 @@
 <a href="lesson26/index.php">Урок 26. Домашнее задание</a><br>
 <a href="lesson27/index.php">Урок 27. Подключение файлов в PHP</a><br>
 <a href="lesson28/index.php">Урок 28. Альтернативный синтаксис управляющих структур</a><br>
+<a href="lesson29/index.php">Урок 29. Функции для работы с массивами</a><br>
 <hr>
 <br>
 <a href="pract.php">Практика</a><br>
