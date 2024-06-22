@@ -33,6 +33,7 @@
 <a href="lesson25/index.php">Урок 25. Пользовательские функции. Часть 2</a><br>
 <a href="lesson26/index.php">Урок 26. Домашнее задание</a><br>
 <a href="lesson27/index.php">Урок 27. Подключение файлов в PHP</a><br>
+<a href="lesson28/index.php">Урок 28. Альтернативный синтаксис управляющих структур</a><br>
 <hr>
 <br>
 <a href="pract.php">Практика</a><br>
