@@ -37,7 +37,7 @@
 <a href="lesson29/index.php">Урок 29. Функции для работы с массивами</a><br>
 <a href="lesson30/index.php">Урок 30. Домашнее задание</a><br>
 <a href="lesson31/index.php">Урок 31. Функции для работы со строками</a><br>
-<a href="lesson32/index.php">Урок 32. Домашнее задание</a><br>
+<a href="lesson33/index.php">Урок 33. Методы GET и POST</a><br>
 <hr>
 <br>
 <a href="pract.php">Практика</a><br>
