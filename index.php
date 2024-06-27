@@ -40,9 +40,11 @@
 <a href="lesson33/index.php">Урок 33. Методы GET и POST</a><br>
 <a href="lesson34/index.php">Урок 34. Домашнее задание</a><br>
 <a href="lesson35/index.php">Урок 35. Загрузка файлов в PHP</a><br>
+<a href="lesson36/index.php">Урок 36. Сессии в PHP</a><br>
+<a href="lesson37/index.php">Урок 37. Сессии в PHP. Часть 2</a><br>
 <hr>
 <br>
-<a href="pract.php">Практика</a><br>
+<a href="pract/pract.php">Практика</a><br>
 
 </body>
 </html>

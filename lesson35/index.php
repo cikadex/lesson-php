@@ -10,7 +10,7 @@
 
 <body>
 <a href="https://www.php.net/manual/ru/reserved.variables.files.php">Документация. Загрузка файлов в PHP</a><br>
-<a href="https://www.php.net/manual/ru/features.file-upload.post-method.php">Документация. Загрузка файлов методом POST</a>
+<a href="https://www.php.net/manual/ru/features.file-upload.post-method.php">Документация. Загрузка файлов методом POST</a><br>
 <a href="https://www.php.net/manual/ru/features.file-upload.errors.php">Документация. Коды ошибок при загрузки файла</a><br><br>
 
 <p>Загрузка файлов осуществляется через метод: <b>POST</b></p>
