@@ -42,6 +42,8 @@
 <a href="lesson35/index.php">Урок 35. Загрузка файлов в PHP</a><br>
 <a href="lesson36/index.php">Урок 36. Сессии в PHP</a><br>
 <a href="lesson37/index.php">Урок 37. Сессии в PHP. Часть 2</a><br>
+<a href="lesson38/index.php">Урок 38. Куки в PHP</a><br>
+<a href="lesson39/index.php">Урок 39. Рекомендации оформления кода</a><br>
 <hr>
 <br>
 <a href="pract/pract.php">Практика</a><br>
