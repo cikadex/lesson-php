@@ -45,6 +45,7 @@
 <a href="lesson38/index.php">Урок 38. Куки в PHP</a><br>
 <a href="lesson39/index.php">Урок 39. Рекомендации оформления кода</a><br>
 <a href="lesson40/index.php">Урок 40. Функции файловой системы</a><br>
+<a href="lesson41/index.php">Урок 41. Основы работы с MySQL</a><br>
 <hr>
 <br>
 <a href="pract/pract.php">Практика</a><br>
